@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/toastLayoutRoot" android:orientation="horizontal"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:padding="10dp">
+	<ImageView android:id="@+id/asigbeImageView"
+		android:layout_width="wrap_content" android:layout_height="fill_parent"
+		android:layout_marginRight="10dp" />
+	<RelativeLayout android:id="@+id/toastLayoutRight"
+		android:orientation="vertical" android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:padding="10dp">
+		<TextView android:id="@+id/gwakeupTextView"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:text="GWakeUp" android:padding="10dp"
+			android:layout_centerHorizontal="true" android:textSize="18dp" />
+		<View android:id="@+id/gwakeupSeparator" android:layout_height="2dip"
+			android:layout_width="fill_parent" android:background="#FF909090"
+			android:padding="5dip" android:layout_below="@+id/gwakeupTextView" />
+		<TextView android:id="@+id/versionTextView"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:padding="10dp" android:layout_below="@+id/gwakeupSeparator"
+			android:layout_centerHorizontal="true" />
+		<TextView android:id="@+id/authorTextView"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:padding="10dp" android:text="@string/authors"
+			android:layout_below="@+id/versionTextView"
+			android:layout_centerHorizontal="true" android:textSize="15dp" />
+		<TextView android:id="@+id/daiTextView" android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:padding="10dp"
+			android:text="Dai" android:layout_below="@+id/authorTextView"
+			android:layout_centerHorizontal="true" android:textSize="15dp" />
+		<TextView android:id="@+id/composerTextView"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:padding="10dp" android:text="Zstar" android:layout_below="@+id/daiTextView"
+			android:layout_centerHorizontal="true" android:textSize="15dp" />
+		<TextView android:id="@+id/emptyTextView"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:padding="10dp" android:layout_below="@+id/composerTextView"
+			android:layout_centerHorizontal="true" />
+		<View android:id="@+id/copyrightSeparator" android:layout_height="2dip"
+			android:layout_width="fill_parent" android:background="#FF909090"
+			android:paddingTop="30dip" android:layout_below="@+id/emptyTextView" />
+		<TextView android:id="@+id/copyrightTextView"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:padding="10dp" android:text="© Copyright Asigbe 2009"
+			android:layout_below="@+id/copyrightSeparator"
+			android:layout_centerHorizontal="true" />
+	</RelativeLayout>
+</LinearLayout>

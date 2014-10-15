@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">GWakeUp</string>
+	<string name="name">Nom</string>
+	<string name="Monday">Lu</string>
+	<string name="Tuesday">Ma</string>
+	<string name="Wednesday">Me</string>
+	<string name="Thursday">Je</string>
+	<string name="Friday">Ve</string>
+	<string name="Saturday">Sa</string>
+	<string name="Sunday">Di</string>
+	<string name="emptyString"></string>
+	<string name="alarmDialogTitle">Configuration de l\'alarme</string>
+	<string name="audioDialogTitle">Choisissez votre musique</string>
+	<string name="ok">Ok</string>
+	<string name="cancel">Annuler</string>
+	<string name="snooze">Snooze</string>
+	<string name="snoozeDuration">Durée du snooze</string>
+	<string name="minutes">minutes</string>
+	<string name="stop">Stop</string>
+	<string name="alarmSet">Alarm set</string>
+	<string name="fading">Fondu</string>
+	<string name="vibrate">Vibration</string>
+	<string name="seconds">secondes</string>
+	<string name="nextalarm">Prochaine alarme : </string>
+	<string name="noalarmscheduled">Aucune alarme planifiée</string>
+	<string name="defaultMusic">musique par défaut</string>
+	<string name="help">Aide</string>
+	<string name="about">A propos</string>
+	<string name="authors">Auteurs :</string>
+	<string name="edit">Editer</string>
+	<string name="clone">Cloner</string>
+	<string name="delete">Supprimer</string>
+	<string name="notification_preferences">Configuration des notifications
+	</string>
+	<string name="gwakeup_settings">GWakeUp Configuration</string>
+	<string name="show_notification">"Afficher une notification"</string>
+	<string name="show_notification_summary">"Affiche une notification indiquant l'heure de la prochaine alarme"</string>
+	<string name="sound_notification">"Jouer un son lors de la notification"</string>
+	<string name="sound_notification_summary">"Joue un son lors de l\'affichage de la notification"
+	</string>
+	<string name="snooze_shake">Secouer pour activer le snooze</string>
+	<string name="snooze_shake_summary">"Permet d\'activer ou non le snooze en secouant le téléphone" </string>
+	<string name="alarm_volume">"Volume de l'alarme"</string>
+	<string name="alarm_volume_summary">"Permet de configurer le volume de l\'alarme"
+	</string>
+	<string name="alarm_volume_title">"Volume de l\'alarme"</string>
+	<string name="preferences">Preferences</string>
+	<string name="helptext">
+		"L\'écran principal affiche les différentes alarmes configurées par l\'utilisateur.\n
+		Une alarme active est encadrée en vert, dans le cas contraire le cadre est affiché en rouge.\n
+		Les lettres F et V situées à droite de chaque horloge indiquent respectivement si le fading ou la vibration sont actifs.\n
+		A partir du menu principal, il est possible d'effectuer les trois actions suivantes :
+		- ajouter une nouvelle alarme en cliquant sur le bouton + en haut à droite,
+		- supprimer une alarme en faisant glisser l\'alarme que l\'on souhaite supprimer sur le bouton avec un icône de poubelle,
+		- dupliquer une alarme en faisant glisser l\'alarme que l\'on souhaite dupliquer sur le bouton représenté par deux horloges.\n
+		L\'écran de configuration d'une alarme offre la possibilité de :
+		- activer ou désactiver l'alarme,
+		- définir l\'heure et les jours pour lesquels l'alarme se déclenchera,
+		- définir le temps du fondu de la musique,
+		- activer ou non la vibration,
+		- définir le temps du snooze,
+		- choisir le ou les musiques qui serviront d'alarme.\n
+		Lorsque plusieurs musiques sont sélectionnées, l\'alarme choisira aléatoirement une musique dans la liste définie par l\'utilisateur."
+	</string>
+ <string name="noname">Aucun nom</string>
+ <string name="save">Sauvegarder</string>
+ <string name="cancel">Annuler</string>
+    <string name="unlicensed_dialog_title">Application sans licence</string>
+    <string name="unlicensed_dialog_body">"Cette application n'a pas de licence. Veuillez l'acheter à partir du marché."</string>
+    <string name="buy_button">"Acheter l'application"</string>
+    <string name="quit_button">Quitter</string>
+    <string name="error">Erreur</string>
+    <string name="error_during_check_license">Erreur lors de la vérification de la licence</string>
+</resources>

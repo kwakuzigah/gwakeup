@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+	android:title="@string/gwakeup_settings" android:key="gwakeup_settings">
+
+	<PreferenceCategory android:title="@string/notification_preferences"
+		android:key="notification_settings">
+		<CheckBoxPreference android:key="snooze_shake"
+			android:title="@string/snooze_shake" android:summary="@string/snooze_shake_summary"
+			android:persistent="true" android:defaultValue="true" />
+		<com.asigbe.preference.VolumePreference android:key="alarm_volume"
+			android:title="@string/alarm_volume" android:summary="@string/alarm_volume_summary"
+			android:dialogTitle="@string/alarm_volume_title" android:persistent="true" />
+	</PreferenceCategory>
+</PreferenceScreen>

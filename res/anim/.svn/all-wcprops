@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/gwakeup/!svn/ver/2/trunk/res/anim
+END
+fade_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/gwakeup/!svn/ver/2/trunk/res/anim/fade_in.xml
+END
+fade_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/gwakeup/!svn/ver/2/trunk/res/anim/fade_out.xml
+END
+push_up_in.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/gwakeup/!svn/ver/2/trunk/res/anim/push_up_in.xml
+END
+push_up_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/gwakeup/!svn/ver/2/trunk/res/anim/push_up_out.xml
+END

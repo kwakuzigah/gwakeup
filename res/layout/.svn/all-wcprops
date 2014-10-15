@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/gwakeup/!svn/ver/78/trunk/res/layout
+END
+album.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/gwakeup/!svn/ver/78/trunk/res/layout/album.xml
+END
+songslistview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/gwakeup/!svn/ver/8/trunk/res/layout/songslistview.xml
+END
+helpview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/gwakeup/!svn/ver/8/trunk/res/layout/helpview.xml
+END
+aboutview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/gwakeup/!svn/ver/8/trunk/res/layout/aboutview.xml
+END
+songdescriptionview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/gwakeup/!svn/ver/8/trunk/res/layout/songdescriptionview.xml
+END
+album_line.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/gwakeup/!svn/ver/78/trunk/res/layout/album_line.xml
+END
+alarmsview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/gwakeup/!svn/ver/78/trunk/res/layout/alarmsview.xml
+END
+alarmthumbnailview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/gwakeup/!svn/ver/78/trunk/res/layout/alarmthumbnailview.xml
+END
+seekbar_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/gwakeup/!svn/ver/21/trunk/res/layout/seekbar_dialog.xml
+END
+song_line.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/gwakeup/!svn/ver/78/trunk/res/layout/song_line.xml
+END
+alarmnotificationview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/gwakeup/!svn/ver/2/trunk/res/layout/alarmnotificationview.xml
+END
+albumsview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/gwakeup/!svn/ver/78/trunk/res/layout/albumsview.xml
+END
+alarmconfigurationview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/gwakeup/!svn/ver/78/trunk/res/layout/alarmconfigurationview.xml
+END
+mainview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/gwakeup/!svn/ver/2/trunk/res/layout/mainview.xml
+END

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">GWakeUp</string>
+	<string name="name">Name</string>
+	<string name="Monday">Mo</string>
+	<string name="Tuesday">Tu</string>
+	<string name="Wednesday">We</string>
+	<string name="Thursday">Th</string>
+	<string name="Friday">Fr</string>
+	<string name="Saturday">Sa</string>
+	<string name="Sunday">Su</string>
+	<string name="emptyString"></string>
+	<string name="alarmDialogTitle">"Configure alarm"</string>
+	<string name="audioDialogTitle">"Choose audio file"</string>
+	<string name="ok">Ok</string>
+	<string name="cancel">Cancel</string>
+	<string name="snooze">Snooze</string>
+	<string name="snoozeDuration">"Snooze duration"</string>
+	<string name="minutes">minutes</string>
+	<string name="stop">Stop</string>
+	<string name="alarmSet">"Alarm set"</string>
+	<string name="fading">Fading</string>
+	<string name="vibrate">Vibrate</string>
+	<string name="seconds">seconds</string>
+	<string name="nextalarm">"Next alarm : "</string>
+	<string name="noalarmscheduled">"no alarm scheduled"</string>
+	<string name="defaultMusic">"default music"</string>
+	<string name="active">ACTIVE</string>
+	<string name="help">Help</string>
+	<string name="about">About</string>
+	<string name="authors">"Authors :"</string>
+	<string name="edit">Edit</string>
+	<string name="clone">Clone</string>
+	<string name="delete">Delete</string>
+	<string name="notification_preferences">"Notification preferences"</string>
+	<string name="gwakeup_settings">"GWakeUp Settings"</string>
+	<string name="show_notification">"Show notifications"</string>
+	<string name="show_notification_summary">"Show notification when scheduling a new alarm"
+	</string>
+	<string name="sound_notification">"Play sound notification"</string>
+	<string name="sound_notification_summary">"Play a sound when scheduling a new alarm"</string>
+	<string name="snooze_shake">"Shake for snoozing"</string>
+	<string name="snooze_shake_summary">"Allows to shake the phone in order to snooze"
+	</string>
+	<string name="alarm_volume">"Alarm volume"</string>
+	<string name="alarm_volume_summary">"Set volume for the alarm"
+	</string>
+	<string name="alarm_volume_title">"Alarm volume"</string>
+	<string name="preferences">Preferences</string>
+	<string name="helptext">
+		"The main screen displays alarms configured by the user.\n
+		An active alarm is framed in green, on the contrary an inactive alarm is framed in red.\n
+		The letters F and V located on the right side of each clock indicate respectively if the fading or the vibration is on.\n
+		Three actions are available from the main screen :
+		- add a new alarm by clicking on the + button on the top left of the screen,
+		- delete an existing alarm by drag and drop on the trash button,
+		- duplicate an existing alarm by drag and drop on the button with two clocks.\n
+		The configuration screen of an alarm allows to :
+		- enable or disable an alarm,
+		- set up the hour and days for which the alarm will triggered,
+		- define the duration of the fading,
+		- enable or disable the vibration,
+		- define the duration of the snooze,
+		- choose the musics used by the alarm.\n
+		When several musics are selected, the music will be randomly choose by the alarm."
+	</string>
+ <string name="noname">No name</string>
+	<string name="armServiceNotFound">
+ARM service not found
+	</string>
+<string name="licenseError"> 
+License error
+	</string>
+<string name="licenseNotRequested">
+License was not issued due to temporary technical malfunction.
+Please try again. (04)
+	</string>
+<string name="licenseIssueFailure">
+License was not issued due to temporary technical malfunction.
+Please try again. (08)
+	</string>
+<string name="wrongCommunication">
+License was not issued due to temporary technical malfunction.
+Please try again. (0E)
+	</string>
+<string name="failedVerifyPurchase">
+Verification of the purchase history of APP has failed.
+Please contact customer’s service center. (09)
+	</string>
+<string name="nonRegisteredUser">
+This phone has not been registered at Tstore.
+Please register and try again. (0A)
+	</string>
+<string name="licenseNotIssued">
+License was not issued due to temporary technical malfunction.
+Please try again. (0C)
+	</string>
+<string name="licenseNotVerified">
+The license for this application cannot be verified.
+Please contact customer’s service center. (0D)
+	</string>
+<string name="unknownPhoneNumber">
+Unknown phone number.
+Please check if USIM is properly equipped, and if it is locked, unlock USIM. (11)
+	</string>
+<string name="applicationInfoNotFound">
+This Application information cannot be found.
+Please contact customer’s service center. (12)
+	</string>
+<string name="dataCommunicationNotInService">
+Data communication (3G, WIFI) is not in service for this cell phone.
+Please check the setting for data communication on the cell phone and try again. (13)
+	</string>
+<string name="tStoreNotInstalled">
+Tstore program is not installed.
+Please install the Tstore program and try again. (14)
+	</string>
+<string name="unknownError">
+Unknown error.
+	</string>
+<string name="licenseFileNotFound">
+License file can not be found. (30)
+	</string>
+ <string name="licenseVersionError">License version error (31)</string>
+ <string name="wrongLicenseMacValue">Wrong License MAC value (32)</string>
+ <string name="MDNLicenseValueDoesNotExist">License MDN value does not exist (33)</string>
+ <string name="failedMatchedLicense">Failed to match License MDN (34)</string>
+ <string name="matchingAIDLicenseFailure">Failed to match License AID (35)</string>
+ <string name="save">Save</string>
+ <string name="cancel">Cancel</string>
+ <string name="date">Date</string>
+ <string name="time">Time</string>
+    <string name="unlicensed_dialog_title">Application not licensed</string>
+    <string name="unlicensed_dialog_body">This application is not licensed. Please purchase it from Android Market.</string>
+    <string name="buy_button">Buy app</string>
+    <string name="quit_button">Exit</string>
+    <string name="error">Error</string>
+    <string name="error_during_check_license">Error when checking license</string>
+</resources>

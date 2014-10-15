@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.asigbe.view.DragAndDropView
+	android:id="@+id/mainview" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:orientation="horizontal"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<RelativeLayout android:layout_width="wrap_content"
+		android:layout_height="fill_parent" android:orientation="vertical">
+		<ImageButton android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:id="@+id/addButton"
+			android:src="@android:drawable/ic_menu_add" android:layout_marginTop="20dip" />
+		<ImageButton android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:id="@+id/addOneTimeButton"
+			android:src="@drawable/add_onetime_alarm" android:layout_below="@id/addButton"
+			android:layout_marginTop="20dip" />
+		<ImageButton android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:id="@+id/removeButton"
+			android:src="@android:drawable/ic_menu_delete" android:layout_below="@id/addOneTimeButton"
+			android:layout_marginTop="20dip" android:clickable="false" />
+		<ImageButton android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:id="@+id/copyButton"
+			android:src="@drawable/logo_copy" android:layout_below="@id/removeButton"
+			android:layout_marginTop="20dip" android:clickable="false" />
+	</RelativeLayout>
+	<View android:layout_height="fill_parent" android:layout_width="2dip"
+		android:background="#FF909090" android:padding="5dip" />
+	<GridView android:id="@+id/gridview" android:layout_width="wrap_content"
+		android:layout_height="fill_parent" android:numColumns="auto_fit"
+		android:verticalSpacing="10dp" android:horizontalSpacing="2dp"
+		android:stretchMode="columnWidth" android:gravity="center" />
+</com.asigbe.view.DragAndDropView>

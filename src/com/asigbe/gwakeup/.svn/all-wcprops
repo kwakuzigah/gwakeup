@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/gwakeup/!svn/ver/78/trunk/src/com/asigbe/gwakeup
+END
+AlarmConfigurationActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/gwakeup/!svn/ver/78/trunk/src/com/asigbe/gwakeup/AlarmConfigurationActivity.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/gwakeup/!svn/ver/78/trunk/src/com/asigbe/gwakeup/MainActivity.java
+END
+AlarmNotifyActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/gwakeup/!svn/ver/78/trunk/src/com/asigbe/gwakeup/AlarmNotifyActivity.java
+END
+Song.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/gwakeup/!svn/ver/49/trunk/src/com/asigbe/gwakeup/Song.java
+END
+AlarmClock.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/gwakeup/!svn/ver/78/trunk/src/com/asigbe/gwakeup/AlarmClock.java
+END
+BootReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/gwakeup/!svn/ver/78/trunk/src/com/asigbe/gwakeup/BootReceiver.java
+END
+SimpleCursorTreeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/gwakeup/!svn/ver/78/trunk/src/com/asigbe/gwakeup/SimpleCursorTreeAdapter.java
+END
+AlarmScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/gwakeup/!svn/ver/78/trunk/src/com/asigbe/gwakeup/AlarmScheduler.java
+END
+AlbumActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/gwakeup/!svn/ver/78/trunk/src/com/asigbe/gwakeup/AlbumActivity.java
+END
+SettingsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/gwakeup/!svn/ver/78/trunk/src/com/asigbe/gwakeup/SettingsActivity.java
+END
